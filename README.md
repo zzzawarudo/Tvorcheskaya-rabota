@@ -1,1 +1,2 @@
-# Tvorcheskaya-rabota
+Видео творческой работы: https://www.youtube.com/watch?v=Usn4TMYFQ2s
+Автоматизированное рабочее место и задача Коммивояжера
